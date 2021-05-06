@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4. Die Sitzungen on BKD</title>
+    <link>http://lehrerbildung.github.io/4_die_sitzungen/</link>
+    <description>Recent content in 4. Die Sitzungen on BKD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 02 Apr 2020 13:18:01 +0200</lastBuildDate>
+    
+	<atom:link href="http://lehrerbildung.github.io/4_die_sitzungen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
