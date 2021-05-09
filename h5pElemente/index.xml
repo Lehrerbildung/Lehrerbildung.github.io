@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H5pElementes on BKD</title>
+    <link>http://lehrerbildung.github.io/h5pelemente/</link>
+    <description>Recent content in H5pElementes on BKD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 11 Oct 2020 08:40:08 +0200</lastBuildDate>
+    
+	<atom:link href="http://lehrerbildung.github.io/h5pelemente/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aufgaben zur Vorbereitung der 1. Sitzung</title>
+      <link>http://lehrerbildung.github.io/h5pelemente/aufgaben_sites/session1_aufgaben/</link>
+      <pubDate>Sun, 11 Oct 2020 08:40:08 +0200</pubDate>
+      
+      <guid>http://lehrerbildung.github.io/h5pelemente/aufgaben_sites/session1_aufgaben/</guid>
+      <description>Die folgenden Aufgaben sind für die Teilnehmenden des Seminars &amp;ldquo;Basiskompetenzen Digitalisierung“ für Lehramtsstudierende, das im SoSe 2020 an der Universität Göttingen durchgeführt worden ist. Es ist im Zusatzangebot Lehramt PluS angesiedelt und richtet sich fächerübergreifend an Lehramtsstudierende.
+Das Seminar ist Teil des gleichnamigen Niedersächsischen Verbundprojektes Basiskompetenzen Digitalisierung. Es handelt sich um eine Pilotveranstaltung.
+Vorbereitung der Sitzung: Bildung in der digitalen Welt - Eine Einführung Material     Quellenangaben     M1 Beat Döbeli Honegger (2017): Der Leitmedienwechsel und die Schule.</description>
+    </item>
+    
+  </channel>
+</rss>
