@@ -32,13 +32,23 @@ Nutzungsmöglichkeiten  Sie haben einen Text, den Sie in Github (o.ä.) hochlade
     
     <item>
       <title>Dateien selbst nutzen</title>
-      <link>http://lehrerbildung.github.io/6_nachnutzung/mdtome/</link>
+      <link>http://lehrerbildung.github.io/6_nachnutzung/dateien_selbst_nutzen/</link>
       <pubDate>Fri, 01 Jan 2021 11:13:27 +0100</pubDate>
       
-      <guid>http://lehrerbildung.github.io/6_nachnutzung/mdtome/</guid>
+      <guid>http://lehrerbildung.github.io/6_nachnutzung/dateien_selbst_nutzen/</guid>
       <description>Um das vorgestellte Material selbst zu nutzen und in eigene Arbeiten einzubinden, stellen wir Ihnen hier einen erprobten Workflow vor.
 Durch das Projekt werden drei unterschiedliche Verfahren zur Nachnutzung und Weiterarbeit bereitgestellt:
  Nachnutzung einer Markdownfile (diese enthalten alle Elemente, Texte und Verlaufspläne, die sich auf der Website befinden) Nachnutzung der H5P-Elemente (die Aufgaben der Sitzungen werden als interaktive H5P-Elemente bereitgestellt, die sich u.a. in verschiedene LMS integrieren lassen) Nachnutzung der Folien (die Folien der Sitzungen werden als Google Slides bereitgestellt)  Hinweis zu Markdown: Die Anmerkungen in GitHub sind lediglich Kommentare, die diverse Änderungen an den Dateien betreffen.</description>
+    </item>
+    
+    <item>
+      <title>UNser OER Workflow</title>
+      <link>http://lehrerbildung.github.io/6_nachnutzung/unser_oer_workflow/</link>
+      <pubDate>Sun, 11 Oct 2020 12:51:53 +0200</pubDate>
+      
+      <guid>http://lehrerbildung.github.io/6_nachnutzung/unser_oer_workflow/</guid>
+      <description>Workflow zur OER-Erstellung „Freie Bildung für alle&amp;rdquo; ist das Motto von OER, den Open Educational Resources. Offiziell werden diese wie folgt definiert:
+„Open Educational Resources (OER) sind jegliche Arten von Lehr-Lern-Materialien, die gemeinfrei oder mit einer freien Lizenz bereitgestellt werden. Das Wesen dieser offenen Materialien liegt darin, dass jedermann sie legal und kostenfrei vervielfältigen, verwenden, verändern und verbreiten kann. OER umfassen Lehrbücher, Lehrpläne, Lehrveranstaltungskonzepte, Skripte, Aufgaben, Tests, Projekte, Audio-, Video- und Animationsformate.</description>
     </item>
     
     <item>
