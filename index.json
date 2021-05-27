@@ -14,13 +14,6 @@
 	"content": "2. Kompetenzrahmen "
 },
 {
-	"uri": "http://lehrerbildung.github.io/5_aufgaben/",
-	"title": "5. Aufgabensammlung",
-	"tags": [],
-	"description": "",
-	"content": "Sitzung 1 - Bildung in der digitalen Welt Sitzung 2 - Persönliches Lernnetzwerk Sitzung 3 - Die digitale Transformation im gesellschaftlichen Kontext Sitzung 4 - Informationsübertragung Sitzung 5 - Das Internet Sitzung 6 - Codes Sitzung 7 - Informatische Bildung Sitzung 8 - Medienreflexion Sitzung 9 - Medienpädagogik I [Sitzung 10 - Medienpädagogik II - ABC](session10_aufgaben_h5p/ Sitzung 11 - Medienpädagogik III Sitzung 12 - Medienpädagogik IV) "
-},
-{
 	"uri": "http://lehrerbildung.github.io/4_die_sitzungen/a_orientierung/",
 	"title": "a) Orientierung",
 	"tags": [],
@@ -126,6 +119,13 @@
 	"content": "Die Sitzungen Überschrift  Zeilenumbrüche in Klappmenüs (laufen in HTML...)  --  "
 },
 {
+	"uri": "http://lehrerbildung.github.io/5_aufgaben/",
+	"title": "5. Aufgabensammlung",
+	"tags": [],
+	"description": "",
+	"content": "Sitzung 1 - Bildung in der digitalen Welt Sitzung 2 - Persönliches Lernnetzwerk Sitzung 3 - Die digitale Transformation im gesellschaftlichen Kontext Sitzung 4 - Informationsübertragung Sitzung 5 - Das Internet Sitzung 6 - Codes Sitzung 7 - Informatische Bildung Sitzung 8 - Medienreflexion Sitzung 9 - Medienpädagogik I [Sitzung 10 - Medienpädagogik II - ABC](session10_aufgaben_h5p/ Sitzung 11 - Medienpädagogik III Sitzung 12 - Medienpädagogik IV) "
+},
+{
 	"uri": "http://lehrerbildung.github.io/4_die_sitzungen/e_abschluss/",
 	"title": "e) Abschluss &amp; Schulentwicklung",
 	"tags": [],
@@ -138,6 +138,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Die folgenden Seminarplanung richtet sich an Dozierende und behandelt die 04 Sitzung des Seminars \u0026ldquo;Basiskompetenzen Digitalisierung“ für Lehramtsstudierende, die im SoSe 2020 an der Universität Göttingen durchgeführt worden ist. Ein Überblick über das Seminarkonzept ist hier verfügbar.\nDas Seminar ist Teil des gleichnamigen Niedersächsischen Verbundprojektes Basiskompetenzen Digitalisierung.\nEinordnung in den Seminarverlauf (SoSe 2020)          Kontext Aufgrund der besonderen Situation ausgelöst durch die Corona-Pandemie wurde das Seminar rein digital durchgeführt:  Ziel der folgenden Informatik-Sitzungen 04 bis 07 (vgl. Seminarkonzept) ist es, dass die Studierenden sowohl informatische Grundkenntnisse erwerben, als auch mögliche didaktische Szenarien für den Einsatz in der Schule kennenlernen.   Zielgruppe Lehramtsstudierende (fächer- und lehramtsübergreifend)   zeitlicher Bedarf Selbststudium (ca. 45min) und Videokonferenz (ca. 60min)   Bezüge zu DigCompEdu 1.3 Die eigene Praxis hinsichtlich des didaktisch sinnvollen Einsatzes digitaler Medien reflektieren, selbstkritisch beurteilen und aktiv weiterentwickeln.  6.2 Digitale Kommunikation und Zusammenarbeit  6.4 Verantwortungsvoller Umgang mit digitalen Medien  6.5 Digitales Problemlösen   Lernziele Die Studierenden\u0026hellip;  • verstehen die Grundlagen der digitalen Kommunikation  • verstehen die Funktion von Algorithmen, können eigene Protokolle entwerfen und entwickeln. • verstehen die Funktionsweise von Binärcodes.  • lernen verschiedene Übertragungswege von Information kennen.  • lernen die Grundlagen von Verschlüsselung kennen.    Aufgaben zur Vorbereitung der 04. Sitzung Ein paar Tage vor der Seminarsitzung haben die Studierenden die Aufgaben zur Vorbereitung der Sitzung erhalten:\n Aufgaben zur 4. Sitzung\n Ablaufplanung für den 12.05.2020 Die Präsentation zur folgenden Sitzung ist hier online verfügbar.\n   Phase Seminargeschehen Sozialform/Methode Material \u0026amp; Anmerkungen     (14:05 bis 14:15) Techniktest \u0026amp; Ankommen  Alle sind bei Rocket.Chat (als Backup) und im BBB online. Stift und Zettel liegen bereit, ebenso die Notizen aus der Sitzungsvorbereitung. Filius ist geöffnet.   (14:15 bis 14.25) Rückblick:  • Anhand von einer Wordcloud sollen die Studierenden die Übertragungswege von Daten und Informationen kennenlernen.  •Spezifizierung auf den Morsecode UG, Mentimeter     (14.25 bis 14.35) Gruppenarbeit:  Morsecode codieren und entcodieren. PA, Teamgenerator    (14.35 bis 14:40) Impuls I:  Binärcode  Vortrag Folien 1-6    (14.40 bis 14:45) Impuls II:  synchrone und asynchrone Verschlüsselung  Vortrag, Video Binärcode lesen so geht es richtig    (14.45 bis 14:50) Impuls III:  Binärcode und Verwendung  Vortrag    (14:50 bis 15.05) **Gruppenarbeit:**\n1. Stellen Sie sich gegenseitig Ihre Algorithmen vor. Überprüfen Sie diese gegenseitig auf die Eigenschaften: terminiert, deterministisch, determiniert.  2.Bringen Sie folgende Begriffe in einen Zusammenhang:  Digitale Kommunikation, Übertragungswege, Kryptographie, Binärcode, Algorithmus, Informationübertragung GA Hausaufgabe, Breakouträume   (15.05 bis 15.30) Reflexion \u0026amp; Evaluation:  1. Reflexion: Algorithmus Vorstellen und Besprechung eines Algorithus.  2. Reflexion: Zusammenhänge Sätze in den Chat schreiben lassen und reflektieren lassen  3. Reflexion der Sitzung Einen Satz über die Sitzung und Zielscheibenevaluation UG Chat, geteilte Notizen, Evaluation via Mentimeter, Evaluation via Oncoo     Lizenz Autorin: Anna Ansari\nDie Inhalte dieser Seite sind, sofern nicht anders angegeben, nach Creative Commons 4.0 Attribution lizenziert.\n "
+},
+{
+	"uri": "http://lehrerbildung.github.io/6_zusatzmaterial/",
+	"title": "6. Zusatzmaterialien",
+	"tags": [],
+	"description": "",
+	"content": "Zusatzmaterialien "
 },
 {
 	"uri": "http://lehrerbildung.github.io/4_die_sitzungen/b_informatische_bildung/session6/",
@@ -159,13 +166,6 @@
 	"tags": [],
 	"description": "",
 	"content": "OER: Nachnutzung und Weiterarbeit "
-},
-{
-	"uri": "http://lehrerbildung.github.io/6_zusatzmaterial/",
-	"title": "7. Zusatzmaterialien",
-	"tags": [],
-	"description": "",
-	"content": "Zusatzmaterialien "
 },
 {
 	"uri": "http://lehrerbildung.github.io/5_aufgaben/session6_aufgaben_h5p/",

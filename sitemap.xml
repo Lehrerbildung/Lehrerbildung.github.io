@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>http://lehrerbildung.github.io/5_aufgaben/</loc>
-    <lastmod>2020-11-30T15:06:53+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://lehrerbildung.github.io/4_die_sitzungen/a_orientierung/</loc>
     <lastmod>2020-11-30T15:06:53+01:00</lastmod>
   </url>
@@ -93,6 +88,11 @@
   </url>
   
   <url>
+    <loc>http://lehrerbildung.github.io/5_aufgaben/</loc>
+    <lastmod>2020-11-30T15:06:53+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lehrerbildung.github.io/4_die_sitzungen/e_abschluss/</loc>
     <lastmod>2020-11-30T15:06:53+01:00</lastmod>
   </url>
@@ -100,6 +100,11 @@
   <url>
     <loc>http://lehrerbildung.github.io/5_aufgaben/session4_aufgaben_h5p/</loc>
     <lastmod>2020-11-21T12:59:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lehrerbildung.github.io/6_zusatzmaterial/</loc>
+    <lastmod>2020-11-30T15:06:53+01:00</lastmod>
   </url>
   
   <url>
@@ -114,11 +119,6 @@
   
   <url>
     <loc>http://lehrerbildung.github.io/7_nachnutzung/</loc>
-    <lastmod>2020-11-30T15:06:53+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://lehrerbildung.github.io/6_zusatzmaterial/</loc>
     <lastmod>2020-11-30T15:06:53+01:00</lastmod>
   </url>
   
