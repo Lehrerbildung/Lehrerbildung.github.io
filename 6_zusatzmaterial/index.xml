@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7. Zusatzmaterialien on BKD</title>
+    <link>http://lehrerbildung.github.io/6_zusatzmaterial/</link>
+    <description>Recent content in 7. Zusatzmaterialien on BKD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 30 Nov 2020 15:06:53 +0100</lastBuildDate>
+    
+	<atom:link href="http://lehrerbildung.github.io/6_zusatzmaterial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>... zum Seminar</title>
+      <link>http://lehrerbildung.github.io/6_zusatzmaterial/zum-seminar/</link>
+      <pubDate>Mon, 30 Nov 2020 15:06:53 +0100</pubDate>
+      
+      <guid>http://lehrerbildung.github.io/6_zusatzmaterial/zum-seminar/</guid>
+      <description>Gemeinsames Informationsnetzwerk Im Rahmen des Pilotseminars &amp;ldquo;Basiskompetenzen Digitalisierung&amp;rdquo; im Sommersemester 2020 an der Universität Göttingen ist ein gemeinsames Informationsnetzwerk entstanden, das vom Projektteam und den Studierenden unter dem #BKD2020 befüllt wurde.
+Die wichtigsten Links wurden in dem folgenden Padlet zusammengefasst. Die Liste kann weiter ergänzt werden:</description>
+    </item>
+    
+    <item>
+      <title>Good Practice Sammlung</title>
+      <link>http://lehrerbildung.github.io/6_zusatzmaterial/good_practice_sammlung/</link>
+      <pubDate>Mon, 30 Nov 2020 15:06:53 +0100</pubDate>
+      
+      <guid>http://lehrerbildung.github.io/6_zusatzmaterial/good_practice_sammlung/</guid>
+      <description>Lehrkräftebildung in der digitalen Welt Im Rahmen des Verbundprojekts wurde eine Sichtung bestehender (OER-)Materialien vorgenommen, die digitalisierungsbezogene Kompetenzen von (angehenden) Lehrkräften thematisieren. Die wichtigsten Projekte wurden in dem folgenden Padlet zusammengefasst. Die Liste kann weiter ergänzt werden:</description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>http://lehrerbildung.github.io/6_zusatzmaterial/podcast/</link>
+      <pubDate>Thu, 02 Apr 2020 12:44:51 +0200</pubDate>
+      
+      <guid>http://lehrerbildung.github.io/6_zusatzmaterial/podcast/</guid>
+      <description>… die kleinen Audio-Beiträge zur Unterstützung der Lehre. Was sind Podcasts Podcasts sind Audio-, oder seltener auch Videodateien von unterschiedlicher Länge, die die Möglichkeit bieten, einfach und bequem mobil per Smartphone (früher: iPod) abgespielt zu werden. Das Wort setzt sich zusammen aus „pod“ (der Bezeichnung eines MP3-Players der Firma Apple) sowie „cast“ (in Anspielung auf Broadcast, auch Rundfunk genannt). Ziel von Podcasting ist es, Inhalte frei verfügbar in Form einer Erzählung, oder auch eines Interviews an externe Hörer weiterzugeben.</description>
+    </item>
+    
+  </channel>
+</rss>
