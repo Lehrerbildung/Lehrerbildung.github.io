@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mds on BKD</title>
+    <link>http://lehrerbildung.github.io/mds/</link>
+    <description>Recent content in Mds on BKD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language><atom:link href="http://lehrerbildung.github.io/mds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://lehrerbildung.github.io/mds/6-codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lehrerbildung.github.io/mds/6-codes/</guid>
+      <description>06 Codes Links für den direkten Download der Seminarmaterialien:
+ Ablaufplan als Markdowndatei Ablaufplan als PDF-Datei Aufgaben als H5P-Element Folien als Google Slides  Einordnung Kontext Einen Überblick über das gesamte Seminarkonzept bietet dieser Advance Organizer
+Ziel der Informatik-Sitzungen 04 bis 07 (vgl. Seminarkonzept) ist es, dass die Studierenden sowohl informatische Grundkenntnisse erwerben, als auch mögliche didaktische Szenarien für den Einsatz in der Schule kennenlernen. Bisher wurden folgende Seminarsitzungen der Einheit absolviert:</description>
+    </item>
+    
+  </channel>
+</rss>
